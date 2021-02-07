@@ -12,7 +12,8 @@
       <pubDate>Thu, 14 Jan 2021 14:31:43 +0530</pubDate>
       
       <guid>/posts/awesome-wm/</guid>
-      <description>This text is highlighted   * {box-sizing: border-box;} .img-comp-container { position: relative; height: 360px; } .img-comp-img { position: absolute; width: auto; height: auto; overflow: hidden; } .img-comp-img img { display: block; vertical-align: middle; } .img-comp-slider { position: absolute; z-index: 9; cursor: ew-resize; width: 40px; height: 40px; background-color: #2196F3; opacity: 0.7; border-radius: 50%; }   function initComparisons() { var x, i; x = document.getElementsByClassName(&#34;img-comp-overlay&#34;); for (i = 0; i w) pos = w; slide(pos); } function getCursorPos(e) { var a, x = 0; e = e || window.</description>
+      <description>What is a Window Manager ? A window manager, as its name implies manages the windows on your destkop. It controls things like the placement and appearance of your windows. It also controls things like tiling and floating of window.
+What is a tiling or floating window manager ? A floating window manager is generally what everyone uses, it is used in almost all desktop environments. The windows literally float on the screen and one can drag them anywhere.</description>
     </item>
     
   </channel>
