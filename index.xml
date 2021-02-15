@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>purge_me</title>
+    <link>/</link>
+    <description>Recent content on purge_me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 14 Jan 2021 14:31:43 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome Wm</title>
+      <link>/posts/awesome-wm/</link>
+      <pubDate>Thu, 14 Jan 2021 14:31:43 +0530</pubDate>
+      
+      <guid>/posts/awesome-wm/</guid>
+      <description>What is a Window Manager ? A window manager, as its name implies manages the windows on your destkop. It controls things like the placement and appearance of your windows. It also controls things like tiling and floating of window.
+What is a tiling or floating window manager ? A floating window manager is generally what everyone uses, it is used in almost all desktop environments. The windows literally float on the screen and one can drag them anywhere.</description>
+    </item>
+    
+    <item>
+      <title>GL Paint</title>
+      <link>/projects/gl_paint/</link>
+      <pubDate>Mon, 11 Jan 2021 19:44:40 +0530</pubDate>
+      
+      <guid>/projects/gl_paint/</guid>
+      <description>Paint is bloated The MS Paint application is bloated and so I needed something better, something simpler, something less &amp;ldquo;bloated&amp;rdquo; and so I set out on a quest to make my own &amp;ldquo;unbloated&amp;rdquo; paint application from scratch.
+Not really, this is something I worked on with 2 friends for a college semester project.
+Basically it is a paint application written in c++ and uses OpenGL.
+For now it doesn&amp;rsquo;t have anything worth calling a feature, it is a paint application and it does that pretty well.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a college student and an asipiring game developer. I am also comfortable with AR and VR development, App Development, Web Development. I have also experience of doing game development in Godot, Unity as well as Unreal Game Engine. I have also done software development in c++.
+I also enjoy 3D modelling and rendering in Blender.
+Linux is my daily driver and I do 99% of my tasks on it but for some small things like a software not running, I have to boot into windows.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/search/</guid>
+      <description>search</description>
+    </item>
+    
+  </channel>
+</rss>

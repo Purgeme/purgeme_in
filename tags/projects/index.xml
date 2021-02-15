@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on purge_me</title>
+    <link>/tags/projects/</link>
+    <description>Recent content in Projects on purge_me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Jan 2021 19:44:40 +0530</lastBuildDate><atom:link href="/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GL Paint</title>
+      <link>/projects/gl_paint/</link>
+      <pubDate>Mon, 11 Jan 2021 19:44:40 +0530</pubDate>
+      
+      <guid>/projects/gl_paint/</guid>
+      <description>Paint is bloated The MS Paint application is bloated and so I needed something better, something simpler, something less &amp;ldquo;bloated&amp;rdquo; and so I set out on a quest to make my own &amp;ldquo;unbloated&amp;rdquo; paint application from scratch.
+Not really, this is something I worked on with 2 friends for a college semester project.
+Basically it is a paint application written in c++ and uses OpenGL.
+For now it doesn&amp;rsquo;t have anything worth calling a feature, it is a paint application and it does that pretty well.</description>
+    </item>
+    
+  </channel>
+</rss>
