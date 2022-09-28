@@ -1,0 +1,55 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Purgeme'
+theme = "terminal"
+
+[params]
+    themeColor = "green"
+
+    showMenuItems = 2
+
+    showLanguageSelector = true
+
+    fullWidthTheme = false
+
+    centerTheme = true
+
+    autoCover = false
+
+    Toc = false
+
+    # favicon = "favicon.ico"
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Purgeme"
+    subtitle = "Just create, don't purge"
+    owner = "Parvesh"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "HOME"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "github"
+        name = "Github"
+        url = "https://www.github.com/purgeme"
+      [[languages.en.menu.main]]
+        identifier = "linkedin"
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/parvesh-kumar-3b7389217/"
+
+[markup.goldmark.renderer]
+  unsafe = true
