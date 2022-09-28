@@ -1,9 +1,11 @@
-baseURL = 'https://purgeme.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Purgeme'
 theme = "terminal"
 
 [params]
+    contentTypeName = "posts"
+
     themeColor = "green"
 
     showMenuItems = 2

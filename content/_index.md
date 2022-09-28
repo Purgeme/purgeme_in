@@ -1,11 +1,11 @@
 ---
-layout: "index"
+# layout: "index"
 framed: true
-draft: true
+draft: false
 ---
 
 <!-- <div style="text-align: center"> -->
-<img style="width: 100%; height: 50%; clip: crop;" src="cover.jpg" alt="Cover"></img>
+<!-- <img style="width: 100%; height: 50%; clip: crop;" src="cover.jpg" alt="Cover"></img> -->
 <!-- </div> -->
 
 Who am I ??
