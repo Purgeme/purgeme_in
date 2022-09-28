@@ -8,7 +8,7 @@ theme = "terminal"
 
     showMenuItems = 2
 
-    showLanguageSelector = true
+    showLanguageSelector = false
 
     fullWidthTheme = false
 
