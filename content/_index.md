@@ -6,8 +6,13 @@ draft: false
 
 <div style="text-align: center;">
 
-Hi, I am Parvesh.
-Yep, that's it.
+## Hi, I am Parvesh.
+
+#### Programmer
+
+#### Game Developer
+
+#### Tinkerer
 
 <style>
 td, th {
