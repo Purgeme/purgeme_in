@@ -4,22 +4,21 @@ framed: true
 draft: false
 ---
 
-<!-- <div style="text-align: center"> -->
-<!-- <img style="width: 100%; height: 50%; clip: crop;" src="cover.jpg" alt="Cover"></img> -->
-<!-- </div> -->
+<div style="text-align: center;">
 
-Who am I ??
-A guy who loves creating.
+Hi, I am Parvesh.
+Yep, that's it.
 
-My name is Parvesh and I identify as a college student. My love with computers started with coding drawings with QBASIC and stucking with the visual aspect I work with anything related to computer graphics.
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
-**Email**: [parveshkumarbaloda@gmail.com](mailto:parveshkumarbaloda@gmail.com)
+| [Projects](/projects) | [Blog](/blog) |
+|---|---|
 
-**Phone**: [+917347346937](tel:+917347346937)
+|**Email**: [parveshkumarbaloda@gmail.com](mailto:parveshkumarbaloda@gmail.com) | **Phone**: [+917347346937](tel:+917347346937) |
+|---|---|
 
-
-<div align="center">
-<strong>Projects</strong><br/>
-|<br/>
-\/<br/>
 </div>
