@@ -1,0 +1,126 @@
+.Projects {
+    flex: 2;
+    display: flex;
+    /* padding: 30px; */
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    min-width: 550px;
+    min-height: 100vh;
+}
+
+.ProjectsHeader {
+    flex: 0.5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #00000050;
+    color: white;
+    margin: 10px;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    font-family: 'Roboto Mono';
+    text-decoration-line: underline;
+    font-size: xx-large;
+}
+
+.ProjectImage {
+    color: white;
+    flex: 1;
+    margin: 20px;
+    min-height: 128px;
+    max-height: 256px;
+    min-width: 128px;
+    max-width: 256px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+
+    border-style: solid;
+    background-color: #00000050;
+    border-width: 0px;
+    border-color: #adff2f;
+
+    transition-property: background-color;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+.PISelected {
+    background-color: #ffffff50;
+    border-width: 2px;
+    border-color: #adff2f;
+}
+
+.ProjectImage img{
+    /* min-height: 128px; */
+    overflow: hidden;
+    max-height: 100%;
+    max-width: 100%;
+    /* object-fit: contain; */
+}
+
+.ProjectGrid {
+    flex: 2;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.ProjectBox {
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start; */
+    /* justify-content: flex-start; */
+    padding: 20px;
+    margin: 10px;
+    border-radius: 12px;
+    background-color: #ffffff50;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    font-family: 'Roboto Mono';
+}
+
+.ProjectTitle {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    background-color: #00000050;
+    color: white;
+    margin: 10px;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.ProjectDescription {
+    flex: 3;
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+}
+
+.MailTo {
+    background-color: #00000050;
+    opacity: 70%;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 100px;
+    min-width: 64px;
+    min-height: 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.MailToLogo {
+    width: 70%;
+}
