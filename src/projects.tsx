@@ -1,5 +1,4 @@
 import { useState, useRef, useEffect } from 'react'
-// import autoAnimate from '@formkit/auto-animate'
 import './projects.css';
 
 export default function Projects() {
@@ -17,7 +16,8 @@ export default function Projects() {
     ]
     projectTitles = [
         "GL Paint",
-        "Mediapipe C++ library",
+        // "Mediapipe C++ library",
+        "Mediapipe",
         "Godot Mediapipe Module"
     ]
     projectDescriptions = [
