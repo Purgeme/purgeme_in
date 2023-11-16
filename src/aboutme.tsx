@@ -48,7 +48,9 @@ function Description() {
             <p>
                 I am a software developer that is enthusiastic about tinkering with software and hardware.
             </p>
-            P.S. I am not really a front end developer.
+            <p>
+                I love making things and finding solutions to problems no one has.
+            </p>
             <a className='MailTo' href='mailto:parveshkumarbaloda@gmail.com'>
                 <img className='MailToLogo' src={'email.svg'} alt='github'/>
             </a>
