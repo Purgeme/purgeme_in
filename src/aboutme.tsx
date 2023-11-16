@@ -14,8 +14,6 @@ export default function AboutMe() {
 function Links() {
     return (
         <div className='LinksBackground'>
-            {/* Links */}
-            {/* <FaGithub/> */}
             <a href='https://www.github.com/purgeme'>
                 <img className='LinkLogo' src={'github.svg'} alt='Github'/>
             </a>
@@ -49,7 +47,6 @@ function Description() {
             Hi, I am Parvesh.
             <p>
                 I am a software developer that is enthusiastic about tinkering with software and hardware.
-                {/* I am a firm beleiver in open-source software and beleive in right to ownership and right to repair. */}
             </p>
             P.S. I am not really a front end developer.
             <a className='MailTo' href='mailto:parveshkumarbaloda@gmail.com'>

@@ -1,6 +1,5 @@
 .AboutMe {
     flex: 1;
-    /* padding: 30px; */
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -16,8 +15,6 @@
     flex-direction: column;
     justify-content: center;
     background-color: #00000050;
-    /* color: transparent; */
-    /* font-size: xx-la; */
     border-radius: 50px;
     min-width: 64px;
     backdrop-filter: blur(10px);
@@ -33,16 +30,11 @@
 }
 
 .ProfilePic {
-    flex: 4;
-    /* background-size: cover; */
+    flex: 5;
+    z-index: 1; 
     object-fit: cover;
-    overflow: hidden;
-    /* max-width: 512px; */
     max-width: 100%;
     min-width: 256px;
-    /* height: auto; */
-    aspect-ratio: 1;
-    /* zoom: 300%; */
     margin: 10px;
     border-radius: 12px;
 }

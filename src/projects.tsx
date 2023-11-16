@@ -16,7 +16,6 @@ export default function Projects() {
     ]
     projectTitles = [
         "GL Paint",
-        // "Mediapipe C++ library",
         "Mediapipe",
         "Godot Mediapipe Module"
     ]

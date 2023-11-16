@@ -1,7 +1,6 @@
 body {
     margin: 0px;
-    background-color: teal;
-    background-image: url('../public/bg.jpg');
+    background-color: lightblue;
     background-repeat: repeat;
     background-size: cover;
 }
