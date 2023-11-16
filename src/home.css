@@ -4,4 +4,7 @@
     text-anchor: end;
     display: flex;
     flex-wrap: wrap;
+    background-color: #ffffff50;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
