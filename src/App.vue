@@ -7,7 +7,7 @@ var selectedProject = ref(0);
 var projects = [
     {
         index: 0,
-        image: "/src/assets/gl_paint.png",
+        image: "/assets/gl_paint.png",
         link: "https://github.com/purgeme/GL_Paint",
         title: "GL Paint",
         description: `
@@ -20,7 +20,7 @@ var projects = [
     },
     {
         index: 1,
-        image: "/src/assets/mediapipe_cpp_icon.png",
+        image: "/assets/mediapipe_cpp_icon.png",
         title: "Mediapipe Library",
         link: "https://github.com/purgeme/mediapipe_cpp_lib",
         description: `
@@ -34,7 +34,7 @@ var projects = [
     },
     {
         index: 2,
-        image: "/src/assets/mediapipe_godot_icon.png",
+        image: "/assets/mediapipe_godot_icon.png",
         title: "Godot Mediapipe Extension",
         link: "https://github.com/purgeme/godot_mediapipe_module",
         description: `
@@ -71,16 +71,16 @@ export default {
 </script>
 
 <template>
-    <img id="testimg" src="@/assets/bg0.jpg"/>
+    <img id="testimg" src="/backgrounds/bg0.jpg"/>
     <div id="home">
         <div id="profile">
             <div id="profile-top">
                 <div id="profile-image">
-                    <img src="@/assets/profile.jpg" alt="logo.svg">
+                    <img src="/assets/profile.jpg" alt="Profile Image">
                 </div>
                 <div id="profile-links">
-                    <img class="profile-links-logo" v-on:click="openInNewTab('https://www.github.com/purgeme')" src="@/assets/github.svg"/>
-                    <img class="profile-links-logo" v-on:click="openInNewTab('https://www.linkedin.com/in/parvesh-kumar-3b7389217/')" src="@/assets/linkedin.svg"/>
+                    <img class="profile-links-logo" v-on:click="openInNewTab('https://www.github.com/purgeme')" src="/assets/github.svg" alt="Github Logo"/>
+                    <img class="profile-links-logo" v-on:click="openInNewTab('https://www.linkedin.com/in/parvesh-kumar-3b7389217/')" src="/assets/linkedin.svg" alt="LinkedIn Logo"/>
                 </div>
             </div>
             <button id="profile-resume-button" v-on:click="openInNewTab('https://drive.google.com/file/d/1dXBmSRCKBoXNSJCmy6CpHcLvwHgOlkl5/view?usp=sharing')" v-on:mouseover="()=>{}">

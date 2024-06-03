@@ -13,7 +13,7 @@ app.use(router)
 app.mount('#app')
 
 var numOfBackgrounds = 8
-var bgImg = "/src/assets/bg"+Math.floor(Math.random()*numOfBackgrounds)+".jpg";
+var bgImg = "/backgrounds/bg"+Math.floor(Math.random()*numOfBackgrounds)+".jpg";
 document.body.style.backgroundImage = "url('"+bgImg+"')";
 
 // Dynamic colors
